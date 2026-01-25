@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 ## Hey, I’m Rutuja 👋<br><br>Second-year CS student exploring Full Stack Development while also enjoying the low-level side of computing.<br><br>I like learning things deeply, not just using them.<br><br>- 🔭 Building: college projects + personal web apps  <br>- 🌱 Learning: MERN Stack <br>- 💻 Interests: Full Stack Development, system-level concepts & Computer Architecture  <br>- ⚡ Fun fact: I genuinely enjoy learning how processors work internally<br><br>---<br><br>### 🛠 Tech Stack<br><br>**Frontend:** HTML, CSS, JavaScript, React  <br>**Backend:** Node.js, Express.js  <br>**Database:** MongoDB, SQL  <br><br>---<br><br>✨ CS Student | MERN Learner | Exploring Systems & Full Stack
 
 
