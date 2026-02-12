@@ -1,5 +1,36 @@
-# About Me:
-## Hey, I’m Rutuja 👋<br><br>Second-year CS student exploring Full Stack Development while also enjoying the low-level side of computing.<br><br>I like learning things deeply, not just using them.<br><br>- 🔭 Building: college projects + personal web apps  <br>- 🌱 Learning: MERN Stack <br>- 💻 Interests: Full Stack Development, system-level concepts & Computer Architecture  <br>- ⚡ Fun fact: I genuinely enjoy learning how processors work internally<br><br>---<br><br>### 🛠 Tech Stack<br><br>**Frontend:** HTML, CSS, JavaScript, React  <br>**Backend:** Node.js, Express.js  <br>**Database:** MongoDB, SQL  <br><br>---<br><br>✨ CS Student | MERN Learner | Exploring Systems & Full Stack
+# About Me  
+
+## Hey, I’m Rutuja 👋  
+
+Second-year CS student passionate about building full-stack applications and understanding how systems work under the hood.  
+
+I like building systems that connect hardware and software together.  
+
+- 🔭 Currently Building:  
+  • IoT-based Human Following Robot  
+  • Web platform to control the robot & fetch real-time data  
+  • College + personal full-stack projects  
+
+- 🚀 Stack: MERN (MongoDB, Express, React, Node.js)  
+- 💻 Interests: Full Stack Development, IoT, System-Level Concepts, Computer Architecture  
+- ⚡ Fun fact: I enjoy working at the intersection of hardware and web systems  
+
+---
+
+## 🛠 Tech Stack  
+
+### 🚀 Full Stack  
+**Frontend:** HTML, CSS, JavaScript, React  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB, SQL  
+
+### 🔌 IoT & Embedded  
+ESP32, Arduino, Sensors Integration  
+
+---
+
+✨ CS Student | MERN Developer | IoT Explorer | Systems Enthusiast  
+
 
 
 ## 🌐 Socials:
