@@ -1,35 +1,53 @@
-# About Me  
+# **ABOUT ME**
 
-## Hey, I’m Rutuja 👋  
+# **Hey, I’m Rutuja 👋**
 
-Second-year CS student passionate about building full-stack applications and understanding how systems work under the hood.  
+## **Second-year CS student passionate about building full-stack applications and understanding how systems work under the hood.**
 
-I like building systems that connect hardware and software together.  
-
-- 🔭 Currently Building:  
-  • IoT-based Human Following Robot  
-  • Web platform to control the robot & fetch real-time data  
-  • College + personal full-stack projects  
-
-- 🚀 Stack: MERN (MongoDB, Express, React, Node.js)  
-- 💻 Interests: Full Stack Development, IoT, System-Level Concepts, Computer Architecture  
-- ⚡ Fun fact: I enjoy working at the intersection of hardware and web systems  
+### **I like building systems that connect hardware and software together.**
 
 ---
 
-## 🛠 Tech Stack  
+## **🔭 CURRENTLY BUILDING**
 
-### 🚀 Full Stack  
-**Frontend:** HTML, CSS, JavaScript, React  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB, SQL  
-
-### 🔌 IoT & Embedded  
-ESP32, Arduino, Sensors Integration  
+### **• IoT-based Human Following Robot**  
+### **• Web platform to control the robot & fetch real-time data**  
+### **• College + personal full-stack projects**
 
 ---
 
-✨ CS Student | MERN Developer | IoT Explorer | Systems Enthusiast  
+## **🚀 STACK**
+### **MERN (MongoDB, Express, React, Node.js)**
+
+---
+
+## **💻 INTERESTS**
+### **Full Stack Development | IoT | System-Level Concepts | Computer Architecture**
+
+---
+
+## **⚡ FUN FACT**
+### **I enjoy working at the intersection of hardware and web systems**
+
+---
+
+# **🛠 TECH STACK**
+
+## **🚀 FULL STACK**
+### **Frontend:** **HTML, CSS, JavaScript, React**  
+### **Backend:** **Node.js, Express.js**  
+### **Database:** **MongoDB, SQL**
+
+---
+
+## **🔌 IoT & EMBEDDED**
+### **ESP32 | Arduino | Sensors Integration**
+
+---
+
+# ✨ **CS Student | MERN Developer | IoT Explorer | Systems Enthusiast**
+
+
 
 
 
